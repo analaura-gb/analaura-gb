@@ -48,5 +48,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=analaura-gb&theme=codeSTACKr&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaura-gb&layout=compact&theme=codeSTACKr">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=analaura-gb&theme=codeSTACKr&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=analaura-gb&theme=codeSTACKr&hide_border=true">
 </div>
